@@ -1,4 +1,4 @@
-# ANA-XX_brief-description
+# ANA-26018_LDLR-ldl-peptide-colocal
 
 *Advice for use*: This repository uses core scripts managed in a separate repository ([punctalyze](https://github.com/ocarmo/punctalyze)) to promote modularity and code reuse across projects in the Boeynaems lab. The checklist below outlines the steps to initiate an experiment repository in a tidy manner and add the analysis submodule. The punctalyze module is under heavy construction, any changes should be committed in a non-breaking manner, as they link to the main branch. Please check off the tick boxes with an 'x' as you go. This repository assumes elementary knowledge of python and git.
 
